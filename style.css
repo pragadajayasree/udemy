@@ -21,11 +21,12 @@ ul
 {
     float: right;
     margin-top: 30px;
+    text-decoration:none;
 }
 li
 {
     display: inline-block;
-    text-decoration:none;
+    
 }
 a
 {
